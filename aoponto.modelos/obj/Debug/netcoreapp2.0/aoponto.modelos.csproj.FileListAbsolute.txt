@@ -1,0 +1,12 @@
+C:\Projetos\AoPonto\Web Api\aoponto.modelos\bin\Debug\netcoreapp2.0\aoponto.modelos.deps.json
+C:\Projetos\AoPonto\Web Api\aoponto.modelos\bin\Debug\netcoreapp2.0\aoponto.modelos.dll
+C:\Projetos\AoPonto\Web Api\aoponto.modelos\bin\Debug\netcoreapp2.0\aoponto.modelos.pdb
+C:\Projetos\AoPonto\Web Api\aoponto.modelos\obj\Debug\netcoreapp2.0\aoponto.modelos.csprojAssemblyReference.cache
+C:\Projetos\AoPonto\Web Api\aoponto.modelos\obj\Debug\netcoreapp2.0\aoponto.modelos.csproj.CoreCompileInputs.cache
+C:\Projetos\AoPonto\Web Api\aoponto.modelos\obj\Debug\netcoreapp2.0\aoponto.modelos.AssemblyInfoInputs.cache
+C:\Projetos\AoPonto\Web Api\aoponto.modelos\obj\Debug\netcoreapp2.0\aoponto.modelos.AssemblyInfo.cs
+C:\Projetos\AoPonto\Web Api\aoponto.modelos\obj\Debug\netcoreapp2.0\aoponto.modelos.dll
+C:\Projetos\AoPonto\Web Api\aoponto.modelos\obj\Debug\netcoreapp2.0\aoponto.modelos.pdb
+C:\Projetos\AoPonto\Web Api\aoponto.modelos\bin\Debug\netcoreapp2.0\aoponto.lib.dll
+C:\Projetos\AoPonto\Web Api\aoponto.modelos\bin\Debug\netcoreapp2.0\aoponto.lib.pdb
+C:\Projetos\AoPonto\Web Api\aoponto.modelos\obj\Debug\netcoreapp2.0\aoponto.modelos.csproj.CopyComplete

@@ -1,0 +1,5 @@
+C:\Projetos\AoPonto\Web Api\Web Api
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=aoponto.api
+--content-root=C:\Projetos\AoPonto\Web Api\Web Api
+--file=

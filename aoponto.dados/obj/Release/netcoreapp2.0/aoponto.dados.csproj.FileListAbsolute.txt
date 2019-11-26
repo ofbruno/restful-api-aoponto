@@ -1,0 +1,14 @@
+C:\Projetos\AoPonto\Web Api\aoponto.dados\bin\Release\netcoreapp2.0\aoponto.dados.deps.json
+C:\Projetos\AoPonto\Web Api\aoponto.dados\bin\Release\netcoreapp2.0\aoponto.dados.dll
+C:\Projetos\AoPonto\Web Api\aoponto.dados\bin\Release\netcoreapp2.0\aoponto.dados.pdb
+C:\Projetos\AoPonto\Web Api\aoponto.dados\bin\Release\netcoreapp2.0\aoponto.modelos.dll
+C:\Projetos\AoPonto\Web Api\aoponto.dados\bin\Release\netcoreapp2.0\aoponto.modelos.pdb
+C:\Projetos\AoPonto\Web Api\aoponto.dados\obj\Release\netcoreapp2.0\aoponto.dados.csprojAssemblyReference.cache
+C:\Projetos\AoPonto\Web Api\aoponto.dados\obj\Release\netcoreapp2.0\aoponto.dados.csproj.CoreCompileInputs.cache
+C:\Projetos\AoPonto\Web Api\aoponto.dados\obj\Release\netcoreapp2.0\aoponto.dados.AssemblyInfoInputs.cache
+C:\Projetos\AoPonto\Web Api\aoponto.dados\obj\Release\netcoreapp2.0\aoponto.dados.AssemblyInfo.cs
+C:\Projetos\AoPonto\Web Api\aoponto.dados\obj\Release\netcoreapp2.0\aoponto.dados.csproj.CopyComplete
+C:\Projetos\AoPonto\Web Api\aoponto.dados\obj\Release\netcoreapp2.0\aoponto.dados.dll
+C:\Projetos\AoPonto\Web Api\aoponto.dados\obj\Release\netcoreapp2.0\aoponto.dados.pdb
+C:\Projetos\AoPonto\Web Api\aoponto.dados\bin\Release\netcoreapp2.0\aoponto.lib.dll
+C:\Projetos\AoPonto\Web Api\aoponto.dados\bin\Release\netcoreapp2.0\aoponto.lib.pdb

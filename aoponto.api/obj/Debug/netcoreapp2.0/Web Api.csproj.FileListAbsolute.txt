@@ -1,0 +1,18 @@
+C:\Projetos\AoPonto\Web Api\Web Api\bin\Debug\netcoreapp2.0\Web Api.deps.json
+C:\Projetos\AoPonto\Web Api\Web Api\bin\Debug\netcoreapp2.0\Web Api.runtimeconfig.json
+C:\Projetos\AoPonto\Web Api\Web Api\bin\Debug\netcoreapp2.0\Web Api.runtimeconfig.dev.json
+C:\Projetos\AoPonto\Web Api\Web Api\bin\Debug\netcoreapp2.0\Web Api.dll
+C:\Projetos\AoPonto\Web Api\Web Api\bin\Debug\netcoreapp2.0\Web Api.pdb
+C:\Projetos\AoPonto\Web Api\Web Api\bin\Debug\netcoreapp2.0\aoponto.dados.dll
+C:\Projetos\AoPonto\Web Api\Web Api\bin\Debug\netcoreapp2.0\aoponto.modelos.dll
+C:\Projetos\AoPonto\Web Api\Web Api\bin\Debug\netcoreapp2.0\aoponto.servicos.dll
+C:\Projetos\AoPonto\Web Api\Web Api\bin\Debug\netcoreapp2.0\aoponto.servicos.pdb
+C:\Projetos\AoPonto\Web Api\Web Api\bin\Debug\netcoreapp2.0\aoponto.modelos.pdb
+C:\Projetos\AoPonto\Web Api\Web Api\bin\Debug\netcoreapp2.0\aoponto.dados.pdb
+C:\Projetos\AoPonto\Web Api\Web Api\obj\Debug\netcoreapp2.0\Web Api.csprojAssemblyReference.cache
+C:\Projetos\AoPonto\Web Api\Web Api\obj\Debug\netcoreapp2.0\Web Api.csproj.CoreCompileInputs.cache
+C:\Projetos\AoPonto\Web Api\Web Api\obj\Debug\netcoreapp2.0\Web Api.AssemblyInfoInputs.cache
+C:\Projetos\AoPonto\Web Api\Web Api\obj\Debug\netcoreapp2.0\Web Api.AssemblyInfo.cs
+C:\Projetos\AoPonto\Web Api\Web Api\obj\Debug\netcoreapp2.0\Web Api.csproj.CopyComplete
+C:\Projetos\AoPonto\Web Api\Web Api\obj\Debug\netcoreapp2.0\Web Api.dll
+C:\Projetos\AoPonto\Web Api\Web Api\obj\Debug\netcoreapp2.0\Web Api.pdb

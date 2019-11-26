@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA6d9JJOZDtkunNlj110W2wQAAAAACAAAAAAAQZgAAAAEAACAAAABIdiAIfiCgDQ9INZiaN+T2OoFfGbs2xKznVyg38VRdWQAAAAAOgAAAAAIAACAAAAD/DMyfHaj2eWnfGHYaUlh7aS+UMFgPHGdQgOavKjODZyAAAABrEFSxLFOl2JqXE+AXB5CFkJFEeVEclcp8N4BfI6ECkEAAAAAGrLvNk4ffmWyhps8DJSzIKeq+Po0JZ1BGIvrysSyZPIk/zGPdLYqtfTeJfxMiNFWrgyL4an/3G2mtBACwC6Y2</EncryptedPassword>
+    <_PublishTargetUrl>ftp://ftp.aoponto.kinghost.net/www/app</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="aoponto.api.deps.json">
+      <publishTime>08/04/2018 10:51:44</publishTime>
+    </File>
+    <File Include="aoponto.api.dll">
+      <publishTime>08/04/2018 10:51:21</publishTime>
+    </File>
+    <File Include="aoponto.api.pdb">
+      <publishTime>08/04/2018 10:51:21</publishTime>
+    </File>
+    <File Include="aoponto.api.PrecompiledViews.dll">
+      <publishTime>08/04/2018 10:51:42</publishTime>
+    </File>
+    <File Include="aoponto.api.PrecompiledViews.pdb">
+      <publishTime>08/04/2018 10:51:42</publishTime>
+    </File>
+    <File Include="aoponto.api.runtimeconfig.json">
+      <publishTime>08/04/2018 10:51:44</publishTime>
+    </File>
+    <File Include="aoponto.dados.dll">
+      <publishTime>08/04/2018 10:51:15</publishTime>
+    </File>
+    <File Include="aoponto.dados.pdb">
+      <publishTime>08/04/2018 10:51:15</publishTime>
+    </File>
+    <File Include="aoponto.lib.dll">
+      <publishTime>08/02/2018 00:26:55</publishTime>
+    </File>
+    <File Include="aoponto.lib.pdb">
+      <publishTime>08/02/2018 00:26:55</publishTime>
+    </File>
+    <File Include="aoponto.modelos.dll">
+      <publishTime>08/04/2018 10:51:13</publishTime>
+    </File>
+    <File Include="aoponto.modelos.pdb">
+      <publishTime>08/04/2018 10:51:13</publishTime>
+    </File>
+    <File Include="aoponto.servicos.dll">
+      <publishTime>08/04/2018 10:51:17</publishTime>
+    </File>
+    <File Include="aoponto.servicos.pdb">
+      <publishTime>08/04/2018 10:51:17</publishTime>
+    </File>
+    <File Include="appsettings.Development.json">
+      <publishTime>07/07/2018 09:47:27</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>07/28/2018 12:53:39</publishTime>
+    </File>
+    <File Include="dotnet-aspnet-codegenerator-design.dll">
+      <publishTime>02/20/2018 20:41:26</publishTime>
+    </File>
+    <File Include="Microsoft.CodeAnalysis.CSharp.Workspaces.dll">
+      <publishTime>06/21/2018 23:45:08</publishTime>
+    </File>
+    <File Include="Microsoft.CodeAnalysis.Workspaces.dll">
+      <publishTime>06/21/2018 23:45:18</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.Relational.Design.dll">
+      <publishTime>02/17/2017 17:01:04</publishTime>
+    </File>
+    <File Include="Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll">
+      <publishTime>02/20/2018 20:41:26</publishTime>
+    </File>
+    <File Include="Microsoft.VisualStudio.Web.CodeGeneration.Core.dll">
+      <publishTime>02/20/2018 20:41:26</publishTime>
+    </File>
+    <File Include="Microsoft.VisualStudio.Web.CodeGeneration.dll">
+      <publishTime>02/20/2018 20:41:26</publishTime>
+    </File>
+    <File Include="Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll">
+      <publishTime>02/20/2018 20:41:26</publishTime>
+    </File>
+    <File Include="Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll">
+      <publishTime>02/20/2018 20:41:26</publishTime>
+    </File>
+    <File Include="Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll">
+      <publishTime>02/20/2018 20:41:26</publishTime>
+    </File>
+    <File Include="Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll">
+      <publishTime>02/20/2018 20:41:26</publishTime>
+    </File>
+    <File Include="MySqlConnector.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Newtonsoft.Json.dll">
+      <publishTime>03/24/2018 17:44:14</publishTime>
+    </File>
+    <File Include="NuGet.Frameworks.dll">
+      <publishTime>06/21/2018 23:45:01</publishTime>
+    </File>
+    <File Include="Pomelo.EntityFrameworkCore.MySql.Design.dll">
+      <publishTime>05/06/2017 12:09:14</publishTime>
+    </File>
+    <File Include="Pomelo.EntityFrameworkCore.MySql.dll">
+      <publishTime>11/25/2017 05:13:20</publishTime>
+    </File>
+    <File Include="Pomelo.JsonObject.dll">
+      <publishTime>03/07/2017 20:39:04</publishTime>
+    </File>
+    <File Include="System.Composition.AttributedModel.dll">
+      <publishTime>06/21/2018 23:45:43</publishTime>
+    </File>
+    <File Include="System.Composition.Convention.dll">
+      <publishTime>06/21/2018 23:45:43</publishTime>
+    </File>
+    <File Include="System.Composition.Hosting.dll">
+      <publishTime>06/21/2018 23:45:43</publishTime>
+    </File>
+    <File Include="System.Composition.Runtime.dll">
+      <publishTime>06/21/2018 23:45:01</publishTime>
+    </File>
+    <File Include="System.Composition.TypedParts.dll">
+      <publishTime>06/21/2018 23:45:01</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>08/04/2018 10:51:44</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
